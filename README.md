@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pedro Leonardo</h1>
 <h3 align="center">A passionate full-stack web developer based in Boston MA.</h3>
 
+<a align="center" href="https://imgbb.com/"><img align="center" src="https://i.ibb.co/YT0VN4y/Black-and-white-minimalist-jewelry-logo-2-Custom.png" alt="Black-and-white-minimalist-jewelry-logo-2-Custom" border="0"></a>
+
 - 🌱 I’m currently learning **JavaScipt, Node.JS and Mongodb**
 
 - 👨‍💻 All of my projects are available at [https://pedro-leonardo.netlify.app/](https://pedro-leonardo.netlify.app/)
