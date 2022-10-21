@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Pedro Leonardo</h1>
-<h3 align="center">A passionate full-stack web developer based in Boston MA.</h3>
+<h1 align="center">Hi 👋🏾, I'm Pedro Leonardo</h1>
+<h2 align="center">Based in Boston, MA.👨🏾‍💻</h2>
+![](PedroL.jpg)
+
 
 
 
