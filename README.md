@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🏾, I'm Pedro Leonardo</h1>
 <h2 align="center">Based in Boston, MA.👨🏾‍💻</h2>
-[![](PedroL.jpg)]
+
 
 
 
