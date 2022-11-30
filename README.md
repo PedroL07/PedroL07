@@ -30,15 +30,11 @@
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrol07&show_icons=true&locale=en&layout=compact" alt="pedrol07" /></p><br>
 
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrol07&show_icons=true&locale=en" alt="pedrol07" /></p><br>
 
-<!-- <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrol07&" alt="pedrol07" /></p><br> -->
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrol07&" alt="pedrol07" /></p><br>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/pleonardo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pleonardo" /></a></p><br><br>
 
 
-<!---
-PedroL07/PedroL07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
