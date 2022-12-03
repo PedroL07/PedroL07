@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/13Xs9EpFjI_jhbD47uNufjbV10FVt3YzF/view](https://drive.google.com/file/d/13Xs9EpFjI_jhbD47uNufjbV10FVt3YzF/view)
 
-- ⚡ Fun fact **I love playing basketball**
+- ⚡ Fun fact **I love playing basketball and watching Anime :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
