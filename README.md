@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **JavaScipt, Node.JS and Mongodb**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://pedro-leonardo.netlify.app/](https://pedro-leonardo.netlify.app/)
 
