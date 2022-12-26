@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pedro-leonardo.netlify.app/](https://pedro-leonardo.netlify.app/)
 
-- 📫 How to reach me *pleonardo.dev@gmail.com*
+- 📫 You can reach me at *pleonardo.dev@gmail.com*
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/13Xs9EpFjI_jhbD47uNufjbV10FVt3YzF/view](https://drive.google.com/file/d/13Xs9EpFjI_jhbD47uNufjbV10FVt3YzF/view)
 
