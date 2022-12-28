@@ -13,7 +13,7 @@
 
 - 📫 You can reach me at *pleonardo.dev@gmail.com*
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13Xs9EpFjI_jhbD47uNufjbV10FVt3YzF/view](https://drive.google.com/file/d/13Xs9EpFjI_jhbD47uNufjbV10FVt3YzF/view)
+- 📄 Know about my experiences: [https://drive.google.com/file/d/13Xs9EpFjI_jhbD47uNufjbV10FVt3YzF/view](https://drive.google.com/file/d/13Xs9EpFjI_jhbD47uNufjbV10FVt3YzF/view)
 
 - ⚡ Fun fact **I love playing basketball and watching Anime :)**
 
